@@ -7,6 +7,6 @@ Configuration :
 - Name : MyRobot : Smartbot
 - Description : NULL
 
-3. Package creation
+2. Package creation
 - Go to the ros2 workspace : cd ros2_ws/src
 - Create the navigation workspace : ros2 pkg create --build-type ament_cmake --node-name my_node navigation
