@@ -1,11 +1,14 @@
 # MyRobot : basic configurations
 
+
 1. Project creation
 On https://app.theconstructsim.com/MyRosjects : "Create a New Rosject"
+
 Configuration :
-- Ros2 galactic
+- Type : Ros2 galactic
 - Name : MyRobot : Smartbot
 - Description : NULL
+
 
 2. Package creation
 - Go to the ros2 workspace : cd ros2_ws/src
