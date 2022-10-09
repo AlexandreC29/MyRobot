@@ -19,3 +19,5 @@ Configuration :
 **3. Nano installation**
 - sudo apt update
 - sudo apt install nano
+
+# MyRobot : Training
