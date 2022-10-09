@@ -1,7 +1,7 @@
 # MyRobot : basic configurations
 
 
-1. Project creation
+**1. Project creation**
 On https://app.theconstructsim.com/MyRosjects : "Create a New Rosject"
 
 Configuration :
@@ -10,11 +10,11 @@ Configuration :
 - Description : NULL
 
 
-2. Package creation
+**2. Package creation**
 - Go to the ros2 workspace : cd ros2_ws/src
 - Create the navigation workspace : ros2 pkg create --build-type ament_cmake --node-name my_node navigation
 
 
-3. Nano installation
+**3. Nano installation**
 - sudo apt update
 - sudo apt install nano
