@@ -12,8 +12,6 @@ Configuration :
 - Create the navigation workspace : ros2 pkg create --build-type ament_cmake --node-name my_node navigation
 
 
-
-
-# Installation de nano
+3. Installation de nano
 - sudo apt update
 - sudo apt install nano
