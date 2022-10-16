@@ -29,13 +29,16 @@ entry_points={
         ],
 },
 
-Then in /ros2_ws:
+Then in /ros2_ws :
+
 -colcon build --packages-select learning
 
 Then :
+
 -. install/setup.bash
 
 Open a terminal and type :
+
 -ros2 run learning my_publisher
 
 Open an other terminal and type:
