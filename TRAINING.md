@@ -50,4 +50,4 @@ cd ros2_ws/
 
 And :
 
-ros2 run learning my_publisher
+ros2 run learning my_subscriber
