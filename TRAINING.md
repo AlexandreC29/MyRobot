@@ -44,6 +44,8 @@ ros2 run learning my_publisher
 
 Open an other terminal and type :
 
+cd ros2_ws/
+
 . install/setup.bash
 
 And :
