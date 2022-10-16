@@ -24,10 +24,11 @@ For the subscriber
 
 entry_points={
         'console_scripts': [
-                'my_publisher = navigation.publisher_member_function:main',
-                'my_subscriber = navigation.subscriber_member_function:main',
+                'publisher = learning.publisher:main',
+                'subscriber = learning.subscriber:main',
+
         ],
-},
+    },
 
 Then in /ros2_ws :
 
