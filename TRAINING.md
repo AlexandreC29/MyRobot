@@ -22,29 +22,29 @@ For the subscriber
 
 -Modify the entry point part of the setup.py file in the package :
 
-**entry_points={
+entry_points={
         'console_scripts': [
                 'my_publisher = navigation.publisher_member_function:main',
                 'my_subscriber = navigation.subscriber_member_function:main',
         ],
-},**
+},
 
 Then in /ros2_ws :
 
-**colcon build --packages-select learning**
+colcon build --packages-select learning
 
 Then :
 
-**. install/setup.bash**
+. install/setup.bash
 
 Open a terminal and type :
 
-**ros2 run learning my_publisher**
+ros2 run learning my_publisher
 
 Open an other terminal and type :
 
-**. install/setup.bash**
+. install/setup.bash
 
 And :
 
-**ros2 run learning my_publisher**
+ros2 run learning my_publisher
