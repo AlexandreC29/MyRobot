@@ -3,7 +3,9 @@
 **1. Create a training package**
 
 -Go to the ros2 workspace : cd ros2_ws/src
+
 -Create the learning package : ros2 pkg create --build-type ament_cmake learning (C++)
+
 -Create the learning package : ros2 pkg create --build-type ament_python learning (Python)
 
 
