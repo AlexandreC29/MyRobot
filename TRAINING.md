@@ -20,7 +20,8 @@ For an example of a publisher
 wget https://raw.githubusercontent.com/ros2/examples/foxy/rclpy/topics/minimal_subscriber/examples_rclpy_minimal_subscriber/subscriber_member_function.py
 For the subscriber
 
--Modify the entry point part of the setup.py file in the package : 
+-Modify the entry point part of the setup.py file in the package :
+
 entry_points={
         'console_scripts': [
                 'my_publisher = navigation.publisher_member_function:main',
