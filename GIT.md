@@ -26,4 +26,5 @@
 
 You must indicate your user name and your password. The password is your personnal acces token
 
-this is a test
+**6. Merge changes on github**
+- Go to the github projet
