@@ -25,5 +25,3 @@
 - git push https://github.com/AlexandreC29/MyRobot.git
 
 You must indicate your user name and your password. The password is your personnal acces token
-
-this is a test
